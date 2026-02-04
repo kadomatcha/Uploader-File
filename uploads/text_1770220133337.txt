@@ -1,0 +1,9 @@
+{
+  chatId: '120363404964019053@g.us',
+  senderId: '245878958911562@lid',
+  pushName: 'Acodex Bot',
+  type: 'imageMessage',
+  text: '✨ berhasil di enhance (HD)',
+  key: [Getter],
+  message: [Getter]
+}
